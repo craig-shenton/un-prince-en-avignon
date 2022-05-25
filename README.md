@@ -11,7 +11,7 @@
 |                                                 |
 |Et l'enfant que j'étais                          |And the child that I was
 |Cueillait pour lui bien des roses                |Gathered for him many roses
-|En ce temps le bonheur était peu de choses       |In those days happiness was a small thing
+|En ce temps le bonheur était peu de choses       |In those days, happiness was a small thing
 |                                                 |
 |Il était un prince en Avignon                    |He was a prince in Avignon
 |Sans royaume, sans château, ni donjon            |Without kingdom, without castle, or a keep
@@ -25,7 +25,7 @@
 |Il nous emportait dans son empire                |He took us into his empire
 |Nous attendrissait avec un sourire               |Tendered us with a smile
 |Combien je l'aimais, combien je rêvais           |How much I loved him, how much I dreamed
-|Et puis vers ma ville je m'en retournais         |And then to my city I returned
+|Et puis vers ma ville je m'en retournais         |And then to my city, I returned
 |                                                 |
 |Il était un prince en Avignon                    |He was a prince in Avignon
 |Sans royaume, sans château, ni donjon            |Without kingdom, without castle, or a keep
